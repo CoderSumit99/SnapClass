@@ -27,4 +27,4 @@ pillow
 librosa
 resemblyzer
 
-setuptools
+setuptools>=70.0.0
