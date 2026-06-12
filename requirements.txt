@@ -1,0 +1,28 @@
+# it is a frontened library to create web apps easily and quickly
+streamlit
+
+numpy
+pandas
+
+# face recognition libraries
+
+scikit-learn
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models
+setuptools
+
+
+supabase
+bcrypt
+
+
+# give url and it make qr code for it
+segno
+
+# for input image and to deal with images also give methods to resize and crop images,flip images and convert images to different formats
+pillow
+
+
+
+librosa
+resemblyzer
